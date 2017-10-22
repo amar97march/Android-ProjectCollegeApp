@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectCollege</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="teachersignupinfo">No account yet? Create one</string>
+    <string name="password">Password</string>
+    <string name="teacherloginlogo">Teacher Login Logo</string>
+</resources>
